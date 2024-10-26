@@ -5,46 +5,28 @@
     <td colspan="2" align="center"><strong>Table of Contents</strong></td>
   </tr>
   <tr>
-    <td>1.</td>
-    <td><a href="#overview">Overview</a></td>
+    <td>1. <a href="#overview">Overview</a></td>
+    <td>6. <a href="#usage-instructions">Usage Instructions</a></td>
   </tr>
   <tr>
-    <td>2.</td>
-    <td><a href="#project-objectives">Project Objectives</a></td>
+    <td>2. <a href="#project-objectives">Project Objectives</a></td>
+    <td>7. <a href="#visualizations">Visualizations</a></td>
   </tr>
   <tr>
-    <td>3.</td>
-    <td><a href="#results-and-conclusions">Results and Conclusions</a></td>
+    <td>3. <a href="#results-and-conclusions">Results and Conclusions</a></td>
+    <td>8. <a href="#future-work">Future Work</a></td>
   </tr>
   <tr>
-    <td>4.</td>
-    <td><a href="#data-description">Data Description</a></td>
+    <td>4. <a href="#data-description">Data Description</a></td>
+    <td>9. <a href="#contributions">Contributions</a></td>
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="#methodology">Methodology</a></td>
-  </tr>
-  <tr>
-    <td>6.</td>
-    <td><a href="#usage-instructions">Usage Instructions</a></td>
-  </tr>
-  <tr>
-    <td>7.</td>
-    <td><a href="#visualizations">Visualizations</a></td>
-  </tr>
-  <tr>
-    <td>8.</td>
-    <td><a href="#future-work">Future Work</a></td>
-  </tr>
-  <tr>
-    <td>9.</td>
-    <td><a href="#contributions">Contributions</a></td>
-  </tr>
-  <tr>
-    <td>10.</td>
-    <td><a href="#license">License</a></td>
+    <td>5. <a href="#methodology">Methodology</a></td>
+    <td>10. <a href="#license">License</a></td>
   </tr>
 </table>
+
+
 
 
 ## Overview
