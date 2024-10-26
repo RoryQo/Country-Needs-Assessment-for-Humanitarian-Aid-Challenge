@@ -1,16 +1,51 @@
 # <div align="center">Country Aid Mini Project</div> 
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Project Objectives](#project-objectives)
-3. [Results and Conclusions](#results-and-conclusions)
-4. [Data Description](#data-description) 
-5. [Methodology](#methodology)
-6. [Usage Instructions](#usage-instructions)
-7. [Visualizations](#visualizations)
-8. [Future Work](#future-work)
-9. [Contributions](#contributions)
-10. [License](#license)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><strong>Table of Contents</strong></td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td><a href="#overview">Overview</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td><a href="#project-objectives">Project Objectives</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="#results-and-conclusions">Results and Conclusions</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="#data-description">Data Description</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="#methodology">Methodology</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="#usage-instructions">Usage Instructions</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="#visualizations">Visualizations</a></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td><a href="#future-work">Future Work</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td><a href="#contributions">Contributions</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td><a href="#license">License</a></td>
+  </tr>
+</table>
+
 
 ## Overview
 HELP International is a humanitarian non-governmental organization (NGO) dedicated to alleviating poverty and providing essential relief during disasters and natural calamities. With approximately $10 million raised, the organization aims to strategically allocate these funds to maximize impact in the most vulnerable regions.
