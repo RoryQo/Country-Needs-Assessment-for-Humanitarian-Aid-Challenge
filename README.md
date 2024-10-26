@@ -107,7 +107,8 @@ The project includes various visualizations to represent data insights, such as:
 - PCA plots illustrating the portion of variance explained based on principal components.
 ![Graph 2](https://raw.githubusercontent.com/RoryQo/R-Country-Needs-Assessment-for-Humanitarian-Aid-Mini-Project/main/Graph2.jpg)
 - Cluster visualizations comparing characteristics of different groups.
-![Graph 1](https://raw.githubusercontent.com/RoryQo/R-Country-Needs-Assessment-for-Humanitarian-Aid-Mini-Project/main/Graph1.jpg)
+<img src="https://raw.githubusercontent.com/RoryQo/R-Country-Needs-Assessment-for-Humanitarian-Aid-Mini-Project/main/Graph1.jpg" alt="Graph 1" style="width: 75%; height: auto;">
+
 ## Future Work
 - Explore additional clustering methods and evaluate their effectiveness.
 - Conduct deeper statistical analysis on the socio-economic indicators.
