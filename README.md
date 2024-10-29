@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><strong>Table of Contents</strong></td>
+    <td colspan="2" align="center"><strong>Table of Contents</strong></td> 
   </tr>
   <tr>
     <td>1. <a href="#overview">Overview</a></td>
