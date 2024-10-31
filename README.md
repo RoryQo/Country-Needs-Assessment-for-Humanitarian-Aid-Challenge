@@ -74,6 +74,7 @@ The dataset includes the following variables:
 1. **Data Preprocessing**: Load the necessary libraries and read the dataset.
 2. **Exploratory Data Analysis**: Conduct correlation analysis to identify key predictors.
 3. **Principal Component Analysis (PCA)**: Visualize and reduce dimensions of the dataset.
+4. **Extract and Plot**: Extract the top two contributing factors from the PCA and plot the countries on a scatterplot with those two variables as axes.
 ```
 country_pc = country %>% 
   select(-country) %>% 
@@ -90,7 +91,7 @@ country_pc$x %>%
 km_mod = kmeans(country_s, centers = 3)
 pam_mod = pam(country_s, 3)
 ```
-6. **Statistical Analysis**: Assess significant differences among clusters.
+6. **Statistical Analysis**: Assess significant differences among clusters by creating visualizations.
 
 ## Usage Instructions
 To utilize the R code for this project, follow these steps:
